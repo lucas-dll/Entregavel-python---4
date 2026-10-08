@@ -223,7 +223,6 @@ programa
         }
 
         // Portugol não tem tuplas. O vetor representa (menor, maior, média).
-        // Após preenchido, ele é usado apenas para leitura por convenção.
         real estatisticas[3]
         estatisticas[0] = menor_preco
         estatisticas[1] = maior_preco
